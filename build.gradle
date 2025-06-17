@@ -57,7 +57,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok'
 
     // https://central.sonatype.com/artifact/com.google.genai/google-genai
-    implementation 'com.google.genai:google-genai:1.3.0'
+    implementation 'com.google.genai:google-genai:1.4.1'
 
     // test
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
